@@ -1,0 +1,23 @@
+{
+  "name": "lovebotai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkehrer/lovebotai.git"
+  },
+  "author": "pkehrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkehrer/lovebotai/issues"
+  },
+  "homepage": "https://github.com/pkehrer/lovebotai#readme",
+  "dependencies": {
+    "lovebotplayer": "^1.0.2"
+  }
+}
